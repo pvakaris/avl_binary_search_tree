@@ -48,7 +48,7 @@ g++ -std=c++11 -o TestTreeMap TestTreeMap.cpp
 g++ -std=c++11 -o TestTreeD TestTreeD.cpp
 ```
 
-Test the code by running all the tests
+Test the code by running all the tests:
 
 ```
 ./TestTreeNode
