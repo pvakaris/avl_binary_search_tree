@@ -5,7 +5,7 @@
 ### Classes and their explanation
 
 * TreeNode represents a node in a tree (a leaf)
-* Tree represents an AVL BinarySearchTree that uses TreeNodes 
+* Tree represents an AVL BinarySearchTree that uses TreeNodes  
 * TreeMap is an AVL BinarySearchTree where each node is a <Key, Value> pair
 
 ### Tree supported methods:
